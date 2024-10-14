@@ -4,20 +4,17 @@ Version `@@version@@` - [Website](https://tkmm.org)
 
 ***
 
-## Written by the TKMM Team
+## The Team
 
-* [ArchLeaders](https://github.com/ArchLeaders)
-* [LordBubbles](https://gamebanana.com/members/1630162)
-* [Mikachan](https://gamebanana.com/members/3095337)
-* [Aster](https://gamebanana.com/members/1782454)
-* [The5thTear](https://gamebanana.com/members/2858090)
+- **[Arch Leaders](https://github.com/ArchLeaders)**: Lead Developer
+- **[Aster](https://github.com/AsteroidPizza39)**: Co-Founder, Artist, & Operations Manager
+- **[The5thTear](https://github.com/The5thTear)**: Co-Founder & Developer
+- **[Lord Bubbles](https://github.com/MasterBubbles)**: Developer & GPT Master
+- **[Mikachan](https://github.com/okmika)**: Developer
 
 ***
 
-## Thanks to the early supporters of the project:
-
-Draz Reckned, Hermy, Ignis, Intergalactic Crew, Jonathan Mota, Makako, Milkydad, Mindstormman, Nicole Fallen, Potato,
-Rashad Taylor, Steve K, vintii, xPretorianx, and 감자.
+*Special thanks to **Draz Reckned**, **Hermy**, **Ignis**, **Intergalactic Crew**, **Jonathan Mota**, **Makako**, **Milkydad**, **Mindstormman**, **Nicole Fallen**, **Potato**, **Rashad Taylor**, **Steve K**, **vintii**, **xPretorianx**, and **감자** for early support of the TKMM project.*
 
 ***
 
