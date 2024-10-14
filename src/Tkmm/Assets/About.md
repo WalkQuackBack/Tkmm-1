@@ -1,6 +1,6 @@
 # TotK Mod Manager (TKMM)
 
-Version `@@version@@` - [Official Website](https://totkmods.github.io/tkmm/)
+Version `@@version@@` - [Website](https://tkmm.org)
 
 ***
 
@@ -21,4 +21,4 @@ Rashad Taylor, Steve K, vintii, xPretorianx, and 감자.
 
 ***
 
-p=. Copyright (C) TKMM Team. [MIT](https://github.com/TKMM-Team/Tkmm/blob/master/License.md).
+p=. © TKMM-Team and Contributors under the MIT License.
